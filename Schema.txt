@@ -1,0 +1,28 @@
+//Example
+
+//Test Code:
+{
+  "name" : "shohan",
+  "age" : 27
+}
+//Schema:
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "name",
+    "age"
+  ]
+}
+
+Schema Converter: https://www.liquid-technologies.com/online-json-to-schema-converter
+
+Schema Validator:https://www.jsonschemavalidator.net/

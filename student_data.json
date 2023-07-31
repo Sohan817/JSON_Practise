@@ -1,0 +1,40 @@
+{
+  "Student_info": [
+    {
+      "name": "Shohan",
+      "middleName": null,
+      "age": 27,
+      "cgpa": 3.4,
+      "isRegistered": true,
+      "languages": ["Bangla", "English", "Hindi"],
+      "friends": [
+        {
+          "name": "Shuvo",
+          "age": 27
+        },
+        {
+          "name": "Shohag",
+          "age": 26
+        }
+      ]
+    },
+    {
+      "name": "Suborna",
+      "middleName": null,
+      "age": 24,
+      "cgpa": 3.9,
+      "isRegistered": false,
+      "languages": ["Bangla", "English", "Hindi", "Finnish"],
+      "friends": [
+        {
+          "name": "Arpita",
+          "age": 27
+        },
+        {
+          "name": "Adity",
+          "age": 25
+        }
+      ]
+    }
+  ]
+}
